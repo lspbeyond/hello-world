@@ -1,2 +1,2 @@
-# hello-world
-just for guide learning
+
+Share your projects with the world, get feedback, and contribute to millions of repositories hosted on GitHub. Do more with powerful integrations...
